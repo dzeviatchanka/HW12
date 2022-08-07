@@ -1,0 +1,44 @@
+body {
+    font-family: "montserrat", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000;
+    background: #FFFFFF;
+}
+
+#wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+.container {
+    max-width: 600px;
+    padding: 30px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+img {
+    vertical-align: top;
+    max-width: 100%;
+    height: auto;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    color: #14475F;
+    font-size: 34px;
+    margin: 8px 0px -6px 0px;
+}
+
+a {
+    text-decoration: none;
+}

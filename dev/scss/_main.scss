@@ -1,0 +1,121 @@
+main {
+    overflow: hidden;
+}
+
+.main .container {
+    padding: 14px 14px 0px 14px;
+}
+
+.main-header {
+    padding: 23px 0px 0px 16px;
+    text-align: justify;
+}
+
+.main-header :last-child {
+    padding: 12px 45px 3px 0px;
+}
+
+.main>p {
+    color: #414042;
+    padding: 0px 23px 11px 0px;
+}
+
+.main-block {
+    color: #FFFFFF;
+    overflow: hidden;
+}
+
+.block {
+    max-width: 600px;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.block>li {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% / 2);
+    margin-right: -4px;
+    padding: 0px 15px 30px;
+}
+
+.card {
+    position: relative;
+    background: #1085A9;
+    padding: 30px 30px 0px 30px;
+    height: 268px;
+    position: relative;
+}
+
+.opacity {
+    opacity: 0.5;
+    font-size: 13px;
+    padding: 0px 54px 0px 0px;
+    line-height: 16px;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.icon:hover {
+    background-color: #03faf1;
+}
+
+.card>img {
+    width: 100%;
+}
+
+.icon+p {
+    margin: 19px 5px 0px 0px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+.btn a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn:hover {
+    color: #03faf1;
+}
+
+.link {
+    position: absolute;
+    bottom: 8px;
+    left: 30px;
+}
+
+.link p {
+    float: left;
+}
+
+.link img {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+}
+
+.link-img {
+    margin: 24px 0px 0px 14px;
+    width: 29px;
+    height: 25px;
+    display: inline-block;
+}
+
+.number {
+    position: absolute;
+    right: 25px;
+    top: 140px;
+}

@@ -1,0 +1,47 @@
+.header {
+    padding: 0px;
+    position: relative;
+    color: #FFFFFF;
+}
+
+.header .container {
+    padding: 0px;
+    position: relative;
+}
+
+.title-container {
+    position: absolute;
+    top: 261px;
+    left: 35px;
+    line-height: 62px;
+    width: 540px;
+    height: 122px;
+    padding: 0px;
+}
+
+.title {
+    font-family: "bebas", Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    padding: 0px;
+    margin: 0px;
+    font-weight: 700;
+    font-style: normal;
+    vertical-align: middle;
+    font-size: 61px;
+}
+
+.header-bottom {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    background: #14475F;
+    text-align: center;
+    padding: 17px 36px;
+    overflow: hidden;
+}
+
+.logo-img {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
